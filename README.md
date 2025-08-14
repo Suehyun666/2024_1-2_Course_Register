@@ -43,7 +43,7 @@
 ┣ 📂 lib                     # 외부 라이브러리 (JAR 파일)
 ┃  ┣ 📜 commons-codec-1.9.jar
 ┃  ┗ 📜 mysql-connector-j-9.3.0.jar
-┃  ┗ 📂 lib_ㄴ             # Interface + Value Object의 소스 코드
+┃  ┗ 📂 lib_src              # Interface + Value Object의 소스 코드
 ┣ 📂 docs                    # 데이터베이스 스키마 및 초기 데이터 SQL
 ┃  ┗ 📜 database_setup.sql   # 테이블 생성 및 초기 데이터 삽입 SQL
 ┗ 📜 README.md
